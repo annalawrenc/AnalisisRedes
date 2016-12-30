@@ -1,0 +1,239 @@
+Source,Target,Volume
+Asia,Africa,1591678648
+Asia,Asia,27222911141
+Asia,Australia and New Zealand,1413457334
+Asia,Brazil,329556297
+Asia,China,2502491561
+Asia,Commonwealth of Independent States (CIS),845820858
+Asia,Europe,7244639154
+Asia,European Union (28),6971564397
+Asia,Four East Asian traders,6560172851
+Asia,India,47190554
+Asia,Japan,9107739851
+Asia,Mexico,498866262
+Asia,Middle East,1598725952
+Asia,North America,12076672155
+Asia,Other Africa,1370170433
+Asia,Other Asia,7591858990
+Asia,Other CIS (CIS11),125229559
+Asia,Other Europe,273074757
+Asia,Russian Federation,720591299
+Asia,South Africa,221508215
+Asia,South and Central America,942730327
+Asia,United States,10463102913
+Australia and New Zealand,Africa,51250205
+Australia and New Zealand,Asia,1725923259
+Australia and New Zealand,Australia and New Zealand,169823069
+Australia and New Zealand,Brazil,2598000
+Australia and New Zealand,China,407981857
+Australia and New Zealand,Commonwealth of Independent States (CIS),16320268
+Australia and New Zealand,Europe,153415363
+Australia and New Zealand,European Union (28),149525225
+Australia and New Zealand,Four East Asian traders,288845610
+Australia and New Zealand,India,202000
+Australia and New Zealand,Japan,196231779
+Australia and New Zealand,Mexico,870000
+Australia and New Zealand,Middle East,18323924
+Australia and New Zealand,North America,168425292
+Australia and New Zealand,Other Africa,37975368
+Australia and New Zealand,Other Asia,662838943
+Australia and New Zealand,Other CIS (CIS11),4962268
+Australia and New Zealand,Other Europe,3890138
+Australia and New Zealand,Russian Federation,11358000
+Australia and New Zealand,South Africa,13274837
+Australia and New Zealand,South and Central America,10656845
+Australia and New Zealand,United States,153119747
+Brazil,Africa,9852000
+Brazil,Asia,58156000
+Brazil,Australia and New Zealand,3566000
+Brazil,China,8673000
+Brazil,Commonwealth of Independent States (CIS),0
+Brazil,Europe,29044000
+Brazil,European Union (28),28960000
+Brazil,Four East Asian traders,33284000
+Brazil,India,0
+Brazil,Japan,7797000
+Brazil,Mexico,0
+Brazil,Middle East,2411000
+Brazil,North America,105765000
+Brazil,Other Africa,9850000
+Brazil,Other Asia,4836000
+Brazil,Other CIS (CIS11),0
+Brazil,Other Europe,84000
+Brazil,Russian Federation,0
+Brazil,South Africa,2000
+Brazil,South and Central America,14935000
+Brazil,United States,104623000
+Europe,Africa,1471896354
+Europe,Asia,3089869307
+Europe,Australia and New Zealand,125622487
+Europe,Brazil,191990755
+Europe,China,782220097
+Europe,Commonwealth of Independent States (CIS),629058594
+Europe,Europe,31801860609
+Europe,European Union (28),30746380604
+Europe,Four East Asian traders,789048989
+Europe,India,9455544
+Europe,Japan,845341224
+Europe,Mexico,24361595
+Europe,Middle East,412333387
+Europe,North America,1396596282
+Europe,Other Africa,1432350650
+Europe,Other Asia,538180967
+Europe,Other CIS (CIS11),427066404
+Europe,Other Europe,1055480005
+Europe,Russian Federation,201992190
+Europe,South Africa,39545704
+Europe,South and Central America,363723811
+Europe,United States,1216591993
+European Union (28),Africa,1075461000
+European Union (28),Asia,1473343000
+European Union (28),Australia and New Zealand,86140000
+European Union (28),Brazil,73458000
+European Union (28),China,432748000
+European Union (28),Commonwealth of Independent States (CIS),204631000
+European Union (28),Europe,23998055000
+European Union (28),European Union (28),23168831000
+European Union (28),Four East Asian traders,315954000
+European Union (28),India,8765000
+European Union (28),Japan,340737000
+European Union (28),Mexico,10694000
+European Union (28),Middle East,151861000
+European Union (28),North America,725602000
+European Union (28),Other Africa,1067950000
+European Union (28),Other Asia,288999000
+European Union (28),Other CIS (CIS11),132813000
+European Union (28),Other Europe,829224000
+European Union (28),Russian Federation,71818000
+European Union (28),South Africa,7511000
+European Union (28),South and Central America,163882000
+European Union (28),United States,655680000
+Four East Asian traders,Africa,140252154
+Four East Asian traders,Asia,2694617383
+Four East Asian traders,Australia and New Zealand,104546606
+Four East Asian traders,Brazil,6735208
+Four East Asian traders,China,570870611
+Four East Asian traders,Commonwealth of Independent States (CIS),18702743
+Four East Asian traders,Europe,162604361
+Four East Asian traders,European Union (28),153920583
+Four East Asian traders,Four East Asian traders,202351772
+Four East Asian traders,India,1516026
+Four East Asian traders,Japan,998765576
+Four East Asian traders,Mexico,3384499
+Four East Asian traders,Middle East,64887927
+Four East Asian traders,North America,348881677
+Four East Asian traders,Other Africa,122501283
+Four East Asian traders,Other Asia,816566791
+Four East Asian traders,Other CIS (CIS11),2766477
+Four East Asian traders,Other Europe,8683777
+Four East Asian traders,Russian Federation,15936266
+Four East Asian traders,South Africa,17750871
+Four East Asian traders,South and Central America,38051116
+Four East Asian traders,United States,307275012
+Japan,Africa,67906000
+Japan,Asia,1420509000
+Japan,Australia and New Zealand,23221000
+Japan,Brazil,260000
+Japan,China,310358000
+Japan,Commonwealth of Independent States (CIS),11081000
+Japan,Europe,45346000
+Japan,European Union (28),43671000
+Japan,Four East Asian traders,689682000
+Japan,India,755000
+Japan,Mexico,1676000
+Japan,Middle East,18020000
+Japan,North America,304247000
+Japan,Other Africa,57489000
+Japan,Other Asia,396493000
+Japan,Other CIS (CIS11),9000
+Japan,Other Europe,1675000
+Japan,Russian Federation,11072000
+Japan,South Africa,10417000
+Japan,South and Central America,2110000
+Japan,United States,288397000
+Mexico,Africa,808000
+Mexico,Asia,228970000
+Mexico,Australia and New Zealand,117000
+Mexico,Brazil,0
+Mexico,China,9407000
+Mexico,Commonwealth of Independent States (CIS),913000
+Mexico,Europe,93286000
+Mexico,European Union (28),93086000
+Mexico,Four East Asian traders,96923000
+Mexico,India,25000
+Mexico,Japan,81352000
+Mexico,Middle East,359000
+Mexico,North America,633366000
+Mexico,Other Africa,808000
+Mexico,Other Asia,41146000
+Mexico,Other CIS (CIS11),913000
+Mexico,Other Europe,200000
+Mexico,Russian Federation,0
+Mexico,South Africa,0
+Mexico,South and Central America,14654000
+Mexico,United States,628260000
+North America,Africa,46720615
+North America,Asia,4029938951
+North America,Australia and New Zealand,67067135
+North America,Brazil,5030387
+North America,China,1523140762
+North America,Commonwealth of Independent States (CIS),58405760
+North America,Europe,1819224129
+North America,European Union (28),1728593518
+North America,Four East Asian traders,947102742
+North America,India,16475211
+North America,Japan,1084432126
+North America,Mexico,59253015
+North America,Middle East,32031894
+North America,North America,4810710928
+North America,Other Africa,43579215
+North America,Other Asia,391720976
+North America,Other CIS (CIS11),58266760
+North America,Other Europe,90630611
+North America,Russian Federation,139000
+North America,South Africa,3141400
+North America,South and Central America,172593907
+North America,United States,3632522050
+South and Central America,Africa,154330951
+South and Central America,Asia,3387670594
+South and Central America,Australia and New Zealand,18086029
+South and Central America,Brazil,640230551
+South and Central America,China,673680526
+South and Central America,Commonwealth of Independent States (CIS),396614330
+South and Central America,Europe,2979416325
+South and Central America,European Union (28),2948124496
+South and Central America,Four East Asian traders,546779002
+South and Central America,India,2000954
+South and Central America,Japan,1096813556
+South and Central America,Mexico,188344539
+South and Central America,Middle East,77308043
+South and Central America,North America,3468033341
+South and Central America,Other Africa,142304583
+South and Central America,Other Asia,1050310527
+South and Central America,Other CIS (CIS11),27591272
+South and Central America,Other Europe,31291829
+South and Central America,Russian Federation,369023058
+South and Central America,South Africa,12026367
+South and Central America,South and Central America,1484160706
+South and Central America,United States,3192061715
+United States,Africa,27841615
+United States,Asia,2740823951
+United States,Australia and New Zealand,54986135
+United States,Brazil,4478387
+United States,China,1003975762
+United States,Commonwealth of Independent States (CIS),39064760
+United States,Europe,1201431129
+United States,European Union (28),1172717518
+United States,Four East Asian traders,639730742
+United States,India,15882211
+United States,Japan,799757126
+United States,Mexico,58838015
+United States,Middle East,26223894
+United States,North America,1172270878
+United States,Other Africa,25484215
+United States,Other Asia,226491976
+United States,Other CIS (CIS11),39064760
+United States,Other Europe,28713611
+United States,Russian Federation,0
+United States,South Africa,2357400
+United States,South and Central America,112326907
